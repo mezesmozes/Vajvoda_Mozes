@@ -1,0 +1,41 @@
+{
+    "osztalyok": [
+        {
+            "id": 1,
+            "nev": "9.A",
+            "szak": "Általános",
+            "evfolyam": 9
+        },
+        {
+            "id": 2,
+            "nev": "10.B",
+            "szak": "Informatika",
+            "evfolyam": 10
+        },
+        {
+            "id": 3,
+            "nev": "11.C",
+            "szak": "Közgazdaság",
+            "evfolyam": 11
+        },
+        {
+            "id": 4,
+            "nev": "12.A",
+            "szak": "Gimnázium",
+            "evfolyam": 12
+        },
+        {
+            "id": 5,
+            "nev": "9.B",
+            "szak": "Elektronika",
+            "evfolyam": 9
+        },
+        {
+            "id": 6,
+            "nev": "10.A",
+            "szak": "Művészeti",
+            "evfolyam": 10
+        }
+    ]
+    
+}
